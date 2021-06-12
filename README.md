@@ -5,6 +5,11 @@
 npm install
 ```
 
+## Json Server a full fake REST API
+```
+npm run jserve
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -14,11 +19,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

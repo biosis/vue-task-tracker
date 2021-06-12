@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "March 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Meeting in School",
+      "day": "March 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Food shopping",
+      "day": "March 7th at 2:00pm",
+      "reminder": false
+    }
+  ]
+}
